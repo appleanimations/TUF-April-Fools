@@ -1,16 +1,20 @@
 {
-	"storyName": "",
+	"storyName": "holy shit lois",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
 	"songs": [
 		[
 			"pissing",
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"bf",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "pisog"
+	"hideStoryMode": false,
+	"weekName": "pisog",
+	"hiddenUntilUnlocked": false
 }

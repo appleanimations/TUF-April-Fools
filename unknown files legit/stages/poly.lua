@@ -3,9 +3,9 @@ function onCreate()
 	makeGraphic('bg', 2500, 1500, 'ffffff')
 	addLuaSprite('bg', false)
 
-	makeLuaSprite('borderL', 'aspect',0,0)
-	setObjectCamera("borderL", 'other')
-	addLuaSprite('borderL', false)
+	makeLuaSprite('borders', 'vhs/borders', 0, 0)
+	setObjectCamera('borders', 'other')
+	addLuaSprite('borders', true)
 end
 
 function onUpdate(elapsed)
