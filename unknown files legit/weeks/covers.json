@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"polybius",
+			"scratch",
+			[
+				0,
+				13,
+				140
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "covers",
+	"hiddenUntilUnlocked": false
+}

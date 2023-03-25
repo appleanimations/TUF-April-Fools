@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic-scratch.png"><SubTexture name="sonic-scratch idle0000" x="0" y="1785" width="448" height="596" frameX="-207" frameY="-274" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch idle0001" x="0" y="1785" width="448" height="596" frameX="-207" frameY="-274" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch idle0002" x="1676" y="941" width="415" height="642" frameX="-218" frameY="-228" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch idle0003" x="1676" y="941" width="415" height="642" frameX="-218" frameY="-228" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch idle0004" x="2190" y="648" width="397" height="647" frameX="-232" frameY="-223" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch idle0005" x="2190" y="648" width="397" height="647" frameX="-232" frameY="-223" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch right0000" x="412" y="0" width="671" height="855" frameX="-97" frameY="-123" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch right0001" x="0" y="941" width="673" height="844" frameX="-88" frameY="-133" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch right0002" x="1486" y="0" width="704" height="848" frameX="-53" frameY="-130" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch down0000" x="2773" y="0" width="622" height="401" frameX="-45" frameY="-410" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch down0001" x="1607" y="1785" width="549" height="500" frameX="-76" frameY="-311" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch down0002" x="1094" y="1785" width="513" height="553" frameX="-82" frameY="-257" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch left0000" x="448" y="1785" width="646" height="580" frameX="-5" frameY="-237" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch left0001" x="1064" y="941" width="612" height="656" frameX="-57" frameY="-160" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch left0002" x="2190" y="0" width="583" height="648" frameX="-110" frameY="-168" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch up0000" x="0" y="0" width="412" height="941" frameX="-84" frameY="-6" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch up0001" x="1083" y="0" width="403" height="855" frameX="-94" frameY="-92" frameWidth="768" frameHeight="1024" />
+<SubTexture name="sonic-scratch up0002" x="673" y="941" width="391" height="822" frameX="-106" frameY="-125" frameWidth="768" frameHeight="1024" />
+</TextureAtlas>

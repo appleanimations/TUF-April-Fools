@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pissyboi.png"><SubTexture name="Pissyboi pissyidle0000" x="778" y="0" width="504" height="388" frameX="-188" frameY="-426" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyidle0001" x="1282" y="0" width="504" height="337" frameX="-188" frameY="-477" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyidle0002" x="0" y="1242" width="505" height="285" frameX="-188" frameY="-529" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyidle0003" x="1282" y="0" width="504" height="337" frameX="-188" frameY="-477" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyleft0000" x="0" y="871" width="474" height="371" frameX="-209" frameY="-445" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyleft0001" x="474" y="871" width="508" height="371" frameX="-181" frameY="-445" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyright0000" x="0" y="495" width="409" height="376" frameX="-208" frameY="-424" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyright0001" x="409" y="495" width="441" height="376" frameX="-203" frameY="-424" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissydown0000" x="1282" y="337" width="457" height="309" frameX="-217" frameY="-498" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissydown0001" x="1282" y="646" width="457" height="282" frameX="-217" frameY="-525" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyup0000" x="389" y="0" width="389" height="445" frameX="-257" frameY="-365" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Pissyboi pissyup0001" x="0" y="0" width="389" height="495" frameX="-257" frameY="-314" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>
