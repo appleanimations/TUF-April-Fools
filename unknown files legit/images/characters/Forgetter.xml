@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Forgetter.png">
+<SubTexture name="Forgetter idle0000" x="491" y="844" width="335" height="683" frameX="-223" frameY="-186" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter right0000" x="1001" y="0" width="361" height="717" frameX="-242" frameY="-161" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter right0001" x="634" y="0" width="367" height="720" frameX="-243" frameY="-159" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter left0000" x="0" y="844" width="491" height="685" frameX="-71" frameY="-187" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter left0001" x="1362" y="0" width="509" height="688" frameX="-51" frameY="-185" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter up0000" x="318" y="0" width="316" height="830" frameX="-229" frameY="-69" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter up0001" x="0" y="0" width="318" height="844" frameX="-228" frameY="-56" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter down0000" x="1161" y="844" width="288" height="543" frameX="-253" frameY="-328" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter down0001" x="1449" y="844" width="299" height="540" frameX="-248" frameY="-332" frameWidth="768" frameHeight="1024" />
+<SubTexture name="Forgetter idle0001" x="826" y="844" width="335" height="681" frameX="-222" frameY="-187" frameWidth="768" frameHeight="1024" />
+</TextureAtlas>
