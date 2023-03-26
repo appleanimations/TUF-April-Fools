@@ -3,18 +3,14 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"bf",
-		""
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"molding time",
@@ -24,9 +20,22 @@
 				73,
 				253
 			]
+		],
+		[
+			"genesis",
+			"mold",
+			[
+				86,
+				73,
+				253
+			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "mold",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "mold"
 }

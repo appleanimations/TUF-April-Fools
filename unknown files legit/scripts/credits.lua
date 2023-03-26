@@ -22,7 +22,7 @@ local credits = { --actual credits, just edit them lol
         {"Appleanimations", "", ""} --CHARTERS
     },
     { --polybius
-        {"Appleanimations", "", ""}, --CODERS
+        {"Appleanimations", "DuduGD2023", ""}, --CODERS
         {"KringleKrBy", "", ""}, --ARTISTS
         {"Ironik", "", ""}, --MUSICIAN
         {"", "", ""} --CHARTERS
