@@ -29,8 +29,14 @@ local credits = { --actual credits, just edit them lol
     },
     { --poker face
         {"Appleanimations", "", ""}, --CODERS
-        {"Appleanimations", "", ""}, --ARTISTS
+        {"", "", ""}, --ARTISTS
         {"Eric Cartman", "Lady Gaga", ""}, --MUSICIAN
+        {"Appleanimations", "", ""} --CHARTERS
+    },
+    { --forgetitties
+        {"Appleanimations", "", ""}, --CODERS
+        {"KringleKrBy", "", ""}, --ARTISTS
+        {"Appleanimations", "", ""}, --MUSICIAN
         {"Appleanimations", "", ""} --CHARTERS
     }
 }
@@ -48,6 +54,8 @@ function onCreatePost()
         d = 4
     elseif songName == 'Poker Face' then
         d = 5
+    elseif songName == 'forgetitties' then
+        d = 6
     end
 
     --the box
