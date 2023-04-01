@@ -1,0 +1,5 @@
+Set the default zoom with an optional tween
+
+
+Value 1: zoom value (default 0.9)
+Value 2: tween duration (seconds)
