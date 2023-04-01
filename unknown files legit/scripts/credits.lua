@@ -4,7 +4,7 @@ local creditsTxtSize = 20 --credits text size
 
 local credits = { --actual credits, just edit them lol
     { --Genesis
-        {"Appleanimations", "", ""}, --CODERS
+        {"Appleanimations", "DuduGD2023", ""}, --CODERS
         {"Appleanimations", "", ""}, --ARTISTS
         {"Steffe", "", ""}, --MUSICIAN
         {"DuduGD2023", "", ""} --CHARTERS
@@ -16,16 +16,16 @@ local credits = { --actual credits, just edit them lol
         {"Appleanimations", "", ""} --CHARTERS
     },
     { --pissing
-        {"Appleanimations", "", ""}, --CODERS
+        {"Appleanimations", "DuduGD2023", ""}, --CODERS
         {"Appleanimations", "TK", "KringleKrBy"}, --ARTISTS
         {"Appleanimations", "", ""}, --MUSICIAN
-        {"Appleanimations", "", ""} --CHARTERS
+        {"Appleanimations", "DuduGD2023", ""} --CHARTERS
     },
     { --polybius
         {"Appleanimations", "DuduGD2023", ""}, --CODERS
         {"KringleKrBy", "", ""}, --ARTISTS
         {"Ironik", "", ""}, --MUSICIAN
-        {"", "", ""} --CHARTERS
+        {"Appleanimations", "", ""} --CHARTERS
     },
     { --poker face
         {"Appleanimations", "", ""}, --CODERS
@@ -37,7 +37,7 @@ local credits = { --actual credits, just edit them lol
         {"Appleanimations", "", ""}, --CODERS
         {"KringleKrBy", "", ""}, --ARTISTS
         {"Appleanimations", "", ""}, --MUSICIAN
-        {"Appleanimations", "", ""} --CHARTERS
+        {"Appleanimations", "DuduGD2023", ""} --CHARTERS
     }
 }
 local d = 1
