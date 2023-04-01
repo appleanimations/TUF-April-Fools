@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "soncistage",
+		"player1": "bf",
+		"player2": "soncinet",
+		"player3": null,
+		"events": [
+			[
+				36923.0769230769,
+				[
+					[
+						"ScreenBorders",
+						"0",
+						"3"
+					],
+					[
+						"DefaultZoom",
+						"1",
+						"3"
+					],
+					[
+						"Camera Zoom Speed",
+						"4",
+						"1.1"
+					]
+				]
+			],
+			[
+				64023.0769230769,
+				[
+					[
+						"ScreenBorders",
+						"1",
+						"3"
+					],
+					[
+						"DefaultZoom",
+						"0.7",
+						"3"
+					],
+					[
+						"Camera Zoom Speed",
+						"16",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Network"
+	}
+}
